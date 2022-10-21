@@ -1,4 +1,4 @@
-# Difference of two squares
+# Difference of two squares expansion
 
 > Before reading about binomial product, you need to know the following:
 > * Binomial product (FOIL rule): $\left(a + b\right)\left(c + d\right) = ac + ad + bc + bd$
@@ -7,7 +7,7 @@ The difference of to squares is a special case of the binomial product, where ea
 
 $$ \left(a + b\right)\left(a - b\right) =  a^2 - b^2 $$
 
-The distributive law can be used to expand expressions similar to the following:
+The difference of two squares expansion can be used to expand expressions similar to the following:
 * $\left(x + 3\right)\left(x - 3\right)$
 * $\left(x + 4\right)\left(x - 4\right)$
 * $\left(x + 5\right)\left(x - 5\right)$
@@ -24,4 +24,4 @@ If you tried to use FOIL, you would end up with some extra terms that would get 
 ## Links
 
 See also:
-* Perfect squares
+* Perfect square expansion
