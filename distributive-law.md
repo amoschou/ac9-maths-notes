@@ -33,4 +33,4 @@ Each term inside the brackets is multiplied by the factor outside the brackets. 
 
 ## Links
 
-Read next: Binomial products (FOIL rule)
+Read next: Binomial product (FOIL rule)
