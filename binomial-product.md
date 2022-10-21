@@ -23,3 +23,8 @@ Each term inside one set of brackets is multiplied by each term in the other set
 * $\left(x - k\right)\left(x + 6\right) = x^2 + 6x - kx - 6k = x^2 + \left(6 - k\right)x - 6k$
 * $\left(x + a\right)\left(y + b\right) = xy + bx + ay + ab$
 
+## Links
+
+Read next:
+* Difference of two squares
+* Perfect squares
