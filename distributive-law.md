@@ -31,3 +31,6 @@ Each term inside the brackets is multiplied by the factor outside the brackets. 
 * $4(a+2) = 4a + 4\cdot 2 = 4a + 8$
 * $k(x+6) = kx + 6k$
 
+## Links
+
+Read next: Binomial products (FOIL rule)
