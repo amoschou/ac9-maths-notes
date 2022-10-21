@@ -9,7 +9,7 @@ $$ \left(a + b\right)\left(c + d\right) = ac + ad + bc + cd $$
 
 This can be summarised by the *FOIL* (Firsts, Outers, Inners, Lasts) rule.
 
-The distributive law can be used to expand expressions similar to the following:
+The FOIL rule can be used to expand expressions similar to the following:
 * $\left(x + 3\right)\left(x + 2\right)$
 * $\left(x + 5\right)\left(x - 2\right)$
 * $\left(x - 4\right)\left(x - 3\right)$
